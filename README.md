@@ -1,12 +1,11 @@
 ## 🔥 Introdução
 
-A [VLGI](https://www.vlgi.com.br/) é um grupo empresarial focado em soluções financeiras.
-Visando inovar e oferecer soluções cada vez mais alinhadas às necessidades de seus clientes, a VLGI está desenvolvendo um novo produto voltado para finanças pessoais.
+Visando inovar e oferecer soluções cada vez mais alinhadas às necessidades de seus clientes, a empresa está desenvolvendo um novo produto voltado para finanças pessoais.
 Este produto tem como objetivo auxiliar os clientes no controle e gestão de seus gastos, permitindo uma visão mais clara e estratégica de suas finanças.
 
 ## 🎲 Desafio
 
-Como colaborador(a) da VLGI, trabalhando no projeto de finanças pessoais, você obteve acesso a uma base de dados que inclui informações características dos clientes,
+Como colaborador(a), trabalhando no projeto de finanças pessoais, você obteve acesso a uma base de dados que inclui informações características dos clientes,
 bem como seu histórico bancário e transações de cartão de crédito.
 
 Seu desafio é **desenvolver uma solução para agrupar clientes baseado nos seus perfis de gastos**.
